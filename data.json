@@ -1,0 +1,308 @@
+[
+    {
+        "id" : "caraserialnoa",
+        "name" : "Simplicity Pullover sweater",
+        "brand" : "Urbanic",
+        "Price" : "$78",
+        "colors" :[
+            "Black",
+            "White"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/9cf73a4e071b423ab614fa140fc47418UR_w540_h720_q85",
+        "description": "",
+        "category" : "sweater",
+        "featured" : true
+    },
+    {
+        "id" : "caraserialnoa",
+        "name" : "Simplicity T-Shirt",
+        "brand" : "LookMark",
+        "Price" : "$62",
+        "colors" :[
+            "white"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/2d12d225420e4863a5a2b1dba7a4fde8_w540_h720_q85",
+        "description": "",
+        "category" : "T-shirt",
+        "featured" : true
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Positioning Printing Pullover T-Shirt",
+        "brand" : "Urbanic",
+        "Price" : "$81",
+        "colors" :[
+            "Black"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/e7da8cc0a37a426d8c6856baabcaab7d_w540_h720_q85",
+        "description": "",
+        "category" : "T-shirt"
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Positioning Printing Pullover T-Shirt",
+        "brand" : "Classy Vogue",
+        "Price" : "$97",
+        "colors" :[
+           "white"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/0275bc8dcae34dc0bfc00bc549622aec_w1000_q90",
+        "description": "",
+        "category" : "T-shirt"
+    },{
+        "id" : "caraserialnoa",
+        "name" : "High Waist Straight Jeans",
+        "brand" : "Levis",
+        "Price" : "$50",
+        "colors" :[
+            "Black"
+           
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/215d14e59d7143dbbdd19ee46a453c47UR_w540_h720_q85",
+        "description": "",
+        "category" : "Jeans",
+        "featured" : true
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Positioning Printing Pullover T-Shirt",
+        "brand" : "Urbanic",
+        "Price" : "$10",
+        "colors" :[
+            "black"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/ca6ac696477641e4a393afed18345381_w1000_q90",
+        "description": "",
+        "category" : "T-shirt"
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Wide Leg Jeans",
+        "brand" : "Urbanic",
+        "Price" : "$28",
+        "colors" :[
+            ""
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/397eae398f924be2a5dd9e63f6ae772f_w540_h720_q85",
+        "description": "",
+        "category" : "Jeans"
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Wide Leg Jeans",
+        "brand" : "Urbanic",
+        "Price" : "$42",
+        "colors" :[
+            "grey"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/737718597724486c9151d2b1879041b1UR_w540_h720_q85",
+        "description": "",
+        "category" : "Jeans"
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Wide Leg Jeans",
+        "brand" : "Urbanic",
+        "Price" : "$39",
+        "colors" :[
+           "Brown"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/ab647757d3b54fec8c264539a1a7dfb6UR_w540_h720_q85",
+        "description": "",
+        "category" : "Jeans"
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Wide Leg Jeans",
+        "brand" : "Urbanic",
+        "Price" : "$63",
+        "colors" :[
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/ed1b14b9aeab4a869053b1ede52b60ac_w540_h720_q85",
+        "description": "",
+        "category" : "Jeans"
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Wide Leg Jeans",
+        "brand" : "Urbanic",
+        "Price" : "$46",
+        "colors" :[
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/3feb08db357e4c24ad627c8742b4bfbfUR_w540_h720_q85",
+        "description": "",
+        "category" : "Jeans"
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Straight Jeans",
+        "brand" : "Urbanic",
+        "Price" : "$59",
+        "colors" :[
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/ccacf6405e78439ea7df47a186d195d6_w540_h720_q85",
+        "description": "",
+        "category" : "Jeans"
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Wide Leg Jeans",
+        "brand" : "Urbanic",
+        "Price" : "$95",
+        "colors" :[
+            "Black"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/88da7810424c44a18633b85257820e69_w540_h720_q85",
+        "description": "",
+        "category" : "Jeans"
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Embroidery Half Placket Sweatshirt",
+        "brand" : "Urbanic",
+        "Price" : "$81",
+        "colors" :[
+            "green"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/df6c48fe6751402b82c721176dd71ea1UR_w540_h720_q85",
+        "description": "",
+        "category" : "Sweatshirt",
+        "featured" : true
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Simplicity Pullover sweatshirt",
+        "brand" : "Urbanic",
+        "Price" : "$54",
+        "colors" :[
+            "Black"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/43a200ae8ebc4b37bb667b22f9aa50c5UR_w1000_q90",
+        "description": "",
+        "category" : "Sweatshirt"
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Drawstring Pullover sweatshirt",
+        "brand" : "Urbanic",
+        "Price" : "$40",
+        "colors" :[
+            "Brown"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/7a93c9858661489f814f7c6ae6023d0aUR_w1000_q90",
+        "description": "",
+        "category" : "Sweatshirt"
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Simplicity Pullover sweatshirt",
+        "brand" : "Urbanic",
+        "Price" : "$61",
+        "colors" :[
+            "Apricot"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/06e2587bf9d74cc69cbf21af97a3d94aUR_w1000_q90",
+        "description": "",
+        "category" : "Sweatshirt"
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Drawstring Pullover sweatshirt",
+        "brand" : "Urbanic",
+        "Price" : "$86",
+        "colors" :[
+            "Black",
+            "Apricot",
+            "white"
+        ],
+        "image":"",
+        "description": "https://img101.urbanic.com/goods-pic/81d938fd76f94e82860e63a10b29b51c_w1000_q90",
+        "category" : "Sweatshirt"
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Positioning Printing Zip Up Sweatshirt",
+        "brand" : "Urbanic",
+        "Price" : "$29",
+        "colors" :[
+            "Rose Red"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/4e9197c7a4c84d6bbf8e9aa9a5e29a58UR_w1000_q90",
+        "description": "",
+        "category" : "Sweatshirt"
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Simplicity Pullover sweater",
+        "brand" : "Urbanic",
+        "Price" : "$54",
+        "colors" :[
+            "Black"
+        ],
+        "image":"",
+        "description": "",
+        "category" : "Sweatshirt"
+    },{
+        "id" : "caraserialnoa",
+        "name" : "FADED-EFFECT T-SHIRT",
+        "brand" : "ZARA",
+        "Price" : "$80",
+        "colors" :[
+            "Black"
+        ],
+        "image":"https://static.zara.net/photos///2022/I/0/1/p/4174/804/724/2/w/288/4174804724_1_1_1.jpg?ts=1658910655016",
+        "description": "",
+        "category" : "T-shirt"
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Short Sleeve T-Shirt",
+        "brand" : "ZARA",
+        "Price" : "$37",
+        "colors" :[
+            "Pink"
+        ],
+        "image":"https://static.zara.net/photos///2022/I/0/1/p/4174/803/620/2/w/750/4174803620_1_1_1.jpg?ts=1658993846107",
+        "description": "",
+        "category" : "T-shirt"
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Ruched Bodycon Dress",
+        "brand" : "Urbanic",
+        "Price" : "$100",
+        "colors" :[
+            "Dark Green"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/451c026287de4c22af490b7359bfcdc2UR_w1000_q90",
+        "description": "",
+        "category" : "dress",
+        "featured" : true
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Printing A-Line Dress",
+        "brand" : "Urbanic",
+        "Price" : "$181",
+        "colors" :[
+            "Black"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/4270e3f7dda149ac8908dd137744245bUR_w1000_q90",
+        "description": "",
+        "category" : "dress",
+        "featured" : true
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Sequins Straight Skirt",
+        "brand" : "Urbanic",
+        "Price" : "$99",
+        "colors" :[
+            "Black"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/37a1d07f28274b9e9610bd3198b2709bUR_w540_h720_q85",
+        "description": "",
+        "category" : "dress",
+        "featured" : true
+    },{
+        "id" : "caraserialnoa",
+        "name" : "Button Pencil Skirt",
+        "brand" : "Urbanic",
+        "Price" : "$259",
+        "colors" :[
+            "Brown"
+        ],
+        "image":"https://img101.urbanic.com/goods-pic/9e8d131ab24d4c51ae999e4ae5d62449UR_w540_h720_q85",
+        "description": "",
+        "category" : "dress",
+        "featured" : true
+    }
+]
